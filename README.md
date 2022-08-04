@@ -3,6 +3,7 @@
 #### Objective
 
 • Scrape product reviews and customer feedback from Amazon.
+
 • Use different NLP moddels to determine whether a customer should purchase that product.
 
 #### Outcomes
